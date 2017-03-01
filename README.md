@@ -12,8 +12,8 @@ Pepper, Lyric, NetProse, WRL (WebRunner Language), WebDancer, and WebSpinner.</b
 something fresh and wanted to avoid so called “nerdy names” with Net or Web in them. It is highly contested who
 actually suggested the name<b> Java,</b> which reflected the teams’ <b>love for coffee.</b></p>
 
-<h2> Angular JavaScript <h2>
-AngularJS is a JavaScript framework. It can be added to an HTML page with a <script> tag.
+<h2> Angular JavaScript </h2>
+AngularJS is a JavaScript framework. It can be added to an HTML page with a <b>script</b> tag.
 
 AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.
 
